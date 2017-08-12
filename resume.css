@@ -1,0 +1,286 @@
+#back{
+  background-color: #FFFFFF;
+  float: none;
+  height: 1580px;
+  width: 1510px;
+}
+#basic{
+  background-color: #E3E3E3;
+  height: 1580px;
+  width: 458px;
+  float: left;
+}
+#mad{
+  float: left;
+  height: 245px;
+  width: 245px;
+  border-radius: 50%;
+  margin-top: 63px;
+  margin-left: 89px;
+}
+#conbox{
+  border: 2px solid white;
+  margin-top: 346;
+  margin-left: 65;
+  height: 65;
+  width: 304;
+  background-color: #FFFFFF;
+}
+#con{
+  text-align: center;
+  padding-top: -57px;
+  font-family: 'Playfair Display SC';
+  font-size: 27;
+  margin-top: 10;
+}
+#mail{
+  width: 20px;
+  height: 20px;
+  margin-left: 95;
+  margin-top: 30;
+}
+#call{
+  width: 20px;
+  height: 20px;
+  margin-left: 95;
+  margin-top: 25;
+}
+#web{
+  width: 20px;
+  height: 20px;
+  margin-left: 95;
+  margin-top: 25;
+}
+#home{
+  width: 20px;
+  height: 20px;
+  margin-left: 95;
+  margin-top: 25;
+}
+#mail1{
+  text-decoration: none;
+  color: black;
+  margin-left: 35;
+  font-family: 'Josefin Sans';
+}
+#call1{
+  color: black;
+  margin-left: 153;
+  margin-top: -19px;
+  font-family: 'Josefin Sans';
+}
+#web1{
+  color: black;
+  text-decoration: none;
+  margin-left: 32;
+  font-family: 'Josefin Sans';
+}
+#home1{
+  margin-left: 151;
+  margin-top: -21px;
+  font-family: 'Josefin Sans';
+}
+#home2{
+  margin-left: 152;
+  margin-top: -48px;
+  font-family: 'Josefin Sans';
+}
+#webpage{
+  margin-top: -33px;
+}
+#edubox{
+  border: 2px solid white;
+  height: 65;
+  width: 304;
+  background-color: #FFFFFF;
+  margin-left: 65;
+}
+#edu{
+  text-align: center;
+  font-family: 'Playfair Display SC';
+  font-size: 27;
+  margin-top: 10;
+}
+#education{
+  margin-left: 83;
+}
+#deg{
+  font-family: 'Playfair Display SC';
+
+}
+#degree{
+  font-family: 'Josefin Sans';
+}
+#skillbox{
+  border: 2px solid white;
+  height: 65;
+  width: 304;
+  background-color: #FFFFFF;
+  margin-left: 65;
+  margin-top: 45;
+}
+#skill{
+  text-align: center;
+  font-family: 'Playfair Display SC';
+  font-size: 27;
+  margin-top: 10;
+}
+#skills{
+  font-family: 'Josefin Sans';
+}
+#compskills{
+  margin-left: 83;
+}
+#socialbox{
+  border: 2px solid white;
+  height: 65;
+  width: 304;
+  background-color: #FFFFFF;
+  margin-left: 65;
+  margin-top: 39px;
+}
+#social{
+  text-align: center;
+  font-family: 'Playfair Display SC';
+  font-size: 27;
+  margin-top: 10;
+}
+#soicon{
+  width: 20px;
+  height: 20px;
+  margin-left: 100;
+  margin-top: 22;
+}
+#so{
+  font-family: 'Josefin Sans';
+  margin-left: 145;
+}
+#soname{
+  margin-top: 34;
+}
+#socialmedia{
+  margin-top: -188px;
+}
+#namebox{
+  background-color: #B9D6D6;
+  border: 2px solid #B9D6D6;
+  height: 310;
+  width: 867;
+  margin-left: 548;
+}
+#name{
+  text-align: center;
+  font-family: 'Playfair Display SC';
+  color: white;
+  font-size: 73;
+}
+#name2{
+  text-align: center;
+  font-family: 'Josefin Sans';
+  color: white;
+  font-size: 32;
+  margin-top: -71;
+}
+#name1{
+  text-align: center;
+  font-family: 'Playfair Display SC';
+  color: white;
+  font-size: 73;
+  margin-top: -87px;
+}
+#aboutbox{
+  border: 2px solid #B9D6D6;
+  height: 65;
+  width: 871;
+  background-color: #B9D6D6;
+  margin-left: 546;
+  margin-top: 72px;
+}
+#about,#core,#exp{
+  text-align: center;
+  font-family: 'Playfair Display SC';
+  font-size: 27;
+  margin-top: 10;
+}
+#aboutme{
+  text-align: justify;
+  font-family: 'Josefin Sans';
+  font-size: 25;
+}
+#aboutmebox{
+  border: 2px solid white;
+  height: 100;
+  width: 871;
+  background-color: white;
+  margin-left: 546;
+}
+#corebox{
+  border: 2px solid #B9D6D6;
+  height: 65;
+  width: 871;
+  background-color: #B9D6D6;
+  margin-left: 546;
+  margin-top: 90;
+}
+
+#compebox1{
+  border: 2px solid white;
+  height: 300;
+  width: 435;
+  background-color: white;
+  margin-left: 546;
+  margin-top: 8;
+}
+#compe1{
+  text-align: left;
+  font-family: 'Josefin Sans';
+  font-size: 25;
+}
+#compebox2{
+  border: 2px solid white;
+  height: 300;
+  width: 435;
+  background-color: white;
+  margin-left: 983;
+  margin-top: -301px;
+}
+#compe2{
+  text-align: left;
+  font-family: 'Josefin Sans';
+  font-size: 25;
+}
+#expbox{
+  border: 2px solid #B9D6D6;
+  height: 65;
+  width: 871;
+  background-color: #B9D6D6;
+  margin-left: 546;
+  margin-top: -34px;
+}
+#expbox1{
+  border: 2px solid white;
+  height: 190;
+  width: 867;
+  background-color: white;
+  margin-top: 0px;
+  margin-left: 545;
+}
+#expbox2{
+  border: 2px solid white;
+  height: 263;
+  width: 867;
+  background-color: white;
+  margin-top: 0px;
+  margin-left: 545;
+}
+#present{
+  text-align: left;
+  font-family: 'Playfair Display SC';
+  font-size: 25;
+}
+#present1,#present2{
+  text-align: left;
+  font-family: 'Josefin Sans';
+  font-size: 25;
+  list-style-position:outside;
+}
