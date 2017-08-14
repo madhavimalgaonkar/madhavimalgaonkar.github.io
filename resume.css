@@ -165,7 +165,6 @@
   background-color: #B9D6D6;
   border: 2px solid #B9D6D6;
   height: 310;
-  width: 867;
   margin-left: 548;
 }
 #name{
@@ -191,7 +190,6 @@
 #aboutbox{
   border: 2px solid #B9D6D6;
   height: 65;
-  width: 871;
   background-color: #B9D6D6;
   margin-left: 546;
   margin-top: 72px;
@@ -210,14 +208,13 @@
 #aboutmebox{
   border: 2px solid white;
   height: 100;
-  width: 871;
+
   background-color: white;
   margin-left: 546;
 }
 #corebox{
   border: 2px solid #B9D6D6;
   height: 65;
-  width: 871;
   background-color: #B9D6D6;
   margin-left: 546;
   margin-top: 90;
@@ -239,7 +236,6 @@
 #compebox2{
   border: 2px solid white;
   height: 300;
-  width: 435;
   background-color: white;
   margin-left: 983;
   margin-top: -301px;
@@ -252,7 +248,6 @@
 #expbox{
   border: 2px solid #B9D6D6;
   height: 65;
-  width: 871;
   background-color: #B9D6D6;
   margin-left: 546;
   margin-top: -34px;
@@ -260,7 +255,6 @@
 #expbox1{
   border: 2px solid white;
   height: 190;
-  width: 867;
   background-color: white;
   margin-top: 0px;
   margin-left: 545;
@@ -268,7 +262,6 @@
 #expbox2{
   border: 2px solid white;
   height: 263;
-  width: 867;
   background-color: white;
   margin-top: 0px;
   margin-left: 545;
