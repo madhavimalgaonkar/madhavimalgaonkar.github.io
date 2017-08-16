@@ -1,13 +1,7 @@
-#back{
-  background-color: #FFFFFF;
-  float: none;
-  height: auto;
-  width: 100%;
-}
 #basic{
   background-color: #E3E3E3;
   height: auto;
-  width: 458px;
+  width: 31%;
   float: left;
 }
 #mad{
@@ -161,11 +155,16 @@
 #socialmedia{
   margin-top: -188px;
 }
+#back{
+  background-color: white;
+  float: right;
+  height: auto;
+  width: 66%;
+}
 #namebox{
   background-color: #B9D6D6;
   border: 2px solid #B9D6D6;
   height: 310;
-  margin-left: 548;
 }
 #name{
   text-align: center;
@@ -191,7 +190,6 @@
   border: 2px solid #B9D6D6;
   height: 65;
   background-color: #B9D6D6;
-  margin-left: 546;
   margin-top: 72px;
 }
 #about,#core,#exp{
@@ -207,17 +205,14 @@
 }
 #aboutmebox{
   border: 2px solid white;
-  height: 100;
-
+  height: auto;
   background-color: white;
-  margin-left: 546;
+  width: 100%;
 }
 #corebox{
   border: 2px solid #B9D6D6;
   height: 65;
   background-color: #B9D6D6;
-  margin-left: 546;
-  margin-top: 90;
 }
 
 #compebox1{
@@ -225,7 +220,6 @@
   height: 300;
   width: 435;
   background-color: white;
-  margin-left: 546;
   margin-top: 8;
 }
 #compe1{
@@ -237,8 +231,9 @@
   border: 2px solid white;
   height: 300;
   background-color: white;
-  margin-left: 983;
-  margin-top: -301px;
+  margin-left: 375;
+  margin-top: -304px;
+  width: 58%;
 }
 #compe2{
   text-align: left;
@@ -249,7 +244,6 @@
   border: 2px solid #B9D6D6;
   height: 65;
   background-color: #B9D6D6;
-  margin-left: 546;
   margin-top: -34px;
 }
 #expbox1{
@@ -257,14 +251,12 @@
   height: 190;
   background-color: white;
   margin-top: 0px;
-  margin-left: 545;
 }
 #expbox2{
   border: 2px solid white;
   height: 263;
   background-color: white;
   margin-top: 0px;
-  margin-left: 545;
 }
 #present{
   text-align: left;
