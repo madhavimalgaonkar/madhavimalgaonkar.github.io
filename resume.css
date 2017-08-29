@@ -150,10 +150,25 @@
   margin-left: 145;
 }
 #soname{
-  margin-top: 34;
+  margin-top: 40px;
 }
 #socialmedia{
   margin-top: -188px;
+}
+#photobox{
+  border: 2px solid white;
+  height: 30;
+  width: 304;
+  background-color: #FFFFFF;
+  margin-left: 65;
+  margin-top: 39px;
+  text-align: center;
+}
+#photo {
+  text-decoration: none;
+  font-family: 'Josefin Sans';
+  color: black;
+  font-size: 32px;
 }
 #back{
   background-color: white;
